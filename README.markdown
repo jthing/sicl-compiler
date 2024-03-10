@@ -1,0 +1,13 @@
+# Sicl-Compiler
+
+## Usage
+
+## Installation
+
+## Author
+
+* John Thingstad (jpthing@online.no)
+
+## Copyright
+
+Copyright (c) 2024 John Thingstad (jpthing@online.no)
